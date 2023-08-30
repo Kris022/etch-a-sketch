@@ -1,0 +1,29 @@
+.board {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  border: 2px solid black;
+}
+
+.square {
+  background-color: azure;
+}
+
+.flex-container {
+    display: flex;
+    border: 1px solid red;
+    justify-content: center;
+}
+
+.content {
+
+}
+
+.controls {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
